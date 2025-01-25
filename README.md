@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Mani Kiran.
 
@@ -13,7 +13,10 @@ Here are a few details about me:
   - Tools: GIT, VSCode, Ubuntu
   - Course Work: Data Structure and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
-You can find more about me on my Linkedin: [Mani Kiran Batchu](https://www.linkedin.com/in/mani-kiran-batchu-4885b1249/)
+### 🌐 Contact Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-kiran-batchu-4885b1249/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manikiran949/)
+
 # GitHub Stats:
 ![](https://github-readme-stats-jdeep.vercel.app/api/top-langs/?username=manikiran949&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&card_width=500&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
