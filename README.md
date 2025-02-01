@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Mani Kiran.
+I'm Mani Kiran.<img align="right" src="https://komarev.com/ghpvc/?username=manikiran949" alt="manikiran949" />
 
 Here are a few details about me:
 - Currently pursuing B.Tech in CSE , NIT Silchar.
