@@ -8,7 +8,7 @@ Here are a few details about me:
 - Email: manikiranbatchu6@gmail.com
 - Skills:
   - Languages: C, C++, Dart, JavaScript
-  - FrameWorks: React.js,Tailwind CSS
+  - Frameworks/Technologies: React.js, Flutter, Tailwind CSS
   - Tools/Databases:  Git, Vite, MySQL
   - Course Work: Data Structure and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
