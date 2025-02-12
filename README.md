@@ -5,12 +5,11 @@ I'm Mani Kiran.<img align="right" src="https://komarev.com/ghpvc/?username=manik
 Here are a few details about me:
 - Currently pursuing B.Tech in CSE , NIT Silchar.
 - Competitive programmer with a good grip on Data Structures and Algorithms
-- Good at flutter, Blockchain.
 - Email: manikiranbatchu6@gmail.com
 - Skills:
-  - Languages: C, C++, Dart, HTML/CSS, MySQL, JavaScript
-  - FrameWorks and Databases: MySQL
-  - Tools: GIT, VSCode, Ubuntu
+  - Languages: C, C++, Dart, JavaScript
+  - FrameWorks: React.js,Tailwind CSS
+  - Tools/Databases:  Git, Vite, MySQL
   - Course Work: Data Structure and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
 ### 🌐 Contact Me:
