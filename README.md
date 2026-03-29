@@ -1,6 +1,10 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋</h1>
 
-I'm Mani Kiran.
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=manikiran949&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
+
+<h3>I'm Mani Kiran</h3>
 
 Here are a few details about me:
 - Currently pursuing B.Tech in CSE NIT Silchar.
