@@ -7,7 +7,8 @@
 <h3>I'm Mani Kiran</h3>
 
 Here are a few details about me:
-- Currently pursuing B.Tech in CSE NIT Silchar.
+- Engineering @IntegraConnect
+- NIT Silchar CSE'26
 - Former Technical Intern @Armada.AI, SDE Intern @Trilogy Innovations (CodeNation)
 - ICPC'25 Regionalist, NITS Hacks 7.0 Winner
 - Email: manikiranbatchu6@gmail.com
